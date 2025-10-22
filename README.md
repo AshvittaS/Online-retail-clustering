@@ -48,7 +48,7 @@ This project performs comprehensive customer segmentation analysis on online ret
 ```
 
 ### Clustering Algorithms Used
-- **K-Means**: Optimal k=2 clusters identified
+- **K-Means**: Optimal k=3 clusters identified
 - **DBSCAN**: eps=0.6, min_samples=3 for best performance
 - **Hierarchical**: Ward linkage with 4 clusters
 
